@@ -1,3 +1,3 @@
 all:
-	gcc -Wall -o ch ch.c
+	gcc -Wall -o ch.out ch.c
 	
